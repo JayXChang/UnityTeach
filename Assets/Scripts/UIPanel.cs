@@ -4,7 +4,6 @@ using UnityEngine.UI;
 
 public class UIPanel : MonoBehaviour
 {
-
     [SerializeField] Text textScore;
     [SerializeField] Text textCountDown;
     [SerializeField] Button btnReplay;
